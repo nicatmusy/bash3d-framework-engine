@@ -58,6 +58,7 @@ convar_t		*s_test;		// cvar for testing new effects
 convar_t		*s_phs;
 convar_t		*s_reverse_channels;
 convar_t		*s_samplecount;
+convar_t	        *xash3d_wall_enable;
 /*
 =============================================================================
 
